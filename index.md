@@ -7,9 +7,9 @@ bigimg:
 
 # About
 
-# Research
-
 # Events
+
+# Research
 
 # People
 
